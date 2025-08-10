@@ -1,4 +1,5 @@
-Next Word Prediction with LSTM
+##Next Word Prediction with LSTM
+
 This project is a Next Word Prediction system built using a Long Short-Term Memory (LSTM) neural network in PyTorch.
 It was trained on the Medium Articles dataset for 100 epochs, reducing the loss from ~10,000 to ~800.
 

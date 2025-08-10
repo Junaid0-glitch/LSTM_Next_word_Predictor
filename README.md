@@ -22,3 +22,5 @@ https://github.com/user-attachments/assets/6b86ee14-9833-4c57-a2b6-fd1c3b508447
 
 Saving & Loading
 The trained model, vocabulary, and settings are saved in checkpoint.pth for easy reuse.
+
+I had to remove the outputs from the notebook because GitHub was unable to load the notebook.
